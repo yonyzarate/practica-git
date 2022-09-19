@@ -1,0 +1,26 @@
+* abdd683 Agregando 2 parrofos
+*   a0d80b2 Resolviendo los conflictos
+|\  
+| * 5789910 Agregnado los estaciones del año
+* | 9833d23 Agregando estaciones del año con fecha
+|/  
+* 2553c55 Agrendo la lista ordenada a html
+* 037c143 Agregando js a html
+* 8f823ba Agrenado style.css a html
+*   00395f1 Merge remote-tracking branch 'origin'
+|\  
+| *   12f7de6 Merge pull request #1 from yonyzarate/html
+| |\  
+* | \   0f10333 Merge branch 'js'
+|\ \ \  
+| * | | d2a9764 Creando index.js
+| |/ /  
+* | / c9ec24f Creando style.css
+| |/  
+|/|   
+* | dcd2cc9 Creando index htmñl
+|/  
+* d89340f creando licencia del repositorio
+* 1ed58fe agregando mas contenido
+* 454eac8 agragando los primeros cambios del archivo
+* 52f2c02 primer commit

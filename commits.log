@@ -1,0 +1,107 @@
+commit abdd683819bb950551b289768dc306db411d8161
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 01:56:21 2022 -0400
+
+    Agregando 2 parrofos
+
+commit a0d80b22381e7805d30b8149a65631aa2d373c27
+Merge: 9833d23 5789910
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 01:51:39 2022 -0400
+
+    Resolviendo los conflictos
+
+commit 9833d23d0b8e50bb36c8add75494dc21de67c9d0
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 01:35:35 2022 -0400
+
+    Agregando estaciones del año con fecha
+
+commit 5789910c9cd8dbb932e7316b301dd50bc86801d0
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 01:35:35 2022 -0400
+
+    Agregnado los estaciones del año
+
+commit 2553c55eb822814fdc5797107197324650e332a7
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 01:25:35 2022 -0400
+
+    Agrendo la lista ordenada a html
+
+commit 037c1439fe891ac162e629c968a6d7e9bab27855
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 01:20:57 2022 -0400
+
+    Agregando js a html
+
+commit 8f823baf3d9fcba17f4021f4917a94702cf5ea7d
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 01:17:02 2022 -0400
+
+    Agrenado style.css a html
+
+commit 00395f1274e4e9da26b01f87358c9c5311c7d7bb
+Merge: 0f10333 12f7de6
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 01:06:35 2022 -0400
+
+    Merge remote-tracking branch 'origin'
+
+commit 0f10333ceb13c903d530d9eec71851b714c514ec
+Merge: c9ec24f d2a9764
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 00:57:23 2022 -0400
+
+    Merge branch 'js'
+
+commit d2a976408f38687374dc7acceb862e17cde6697c
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 00:52:17 2022 -0400
+
+    Creando index.js
+
+commit c9ec24f4e1b677f1024f52cba9d7cfa346f3fc9b
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 00:44:52 2022 -0400
+
+    Creando style.css
+
+commit 12f7de64222807310719684a8488269197d3f580
+Merge: d89340f dcd2cc9
+Author: Yony Zarate Paco <38514096+yonyzarate@users.noreply.github.com>
+Date:   Mon Sep 19 00:40:23 2022 -0400
+
+    Merge pull request #1 from yonyzarate/html
+    
+    Creando index html
+
+commit dcd2cc98bd1fc31819bce7b135637ad4e3c14587
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Mon Sep 19 00:38:17 2022 -0400
+
+    Creando index htmñl
+
+commit d89340f16d2063b54f544979cbd0262d9b974f11
+Author: Yony Zarate Paco <38514096+yonyzarate@users.noreply.github.com>
+Date:   Sun Sep 18 01:13:29 2022 -0400
+
+    creando licencia del repositorio
+
+commit 1ed58fe355b6ab1f734c9fdad72eb36c508a9c21
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Sun Sep 18 01:06:18 2022 -0400
+
+    agregando mas contenido
+
+commit 454eac82814f771b375f1ed56dd036c3f7009c58
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Sun Sep 18 00:56:05 2022 -0400
+
+    agragando los primeros cambios del archivo
+
+commit 52f2c0294862c0f0aaa703dfe3a0debf374cc288
+Author: Yony Zarate Paco <yony.zarate96gmail.com>
+Date:   Sun Sep 18 00:49:03 2022 -0400
+
+    primer commit
